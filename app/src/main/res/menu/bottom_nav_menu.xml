@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_products"
+        android:icon="@drawable/baseline_dry_cleaning_24"
+        android:title="Products" />
+
+    <item
+        android:id="@+id/navigation_orders"
+        android:icon="@drawable/baseline_shopping_cart_checkout_24"
+        android:title="Orders" />
+
+</menu>
